@@ -1,0 +1,19 @@
+body {
+    background-color: var(--secondaryColor);
+}
+
+:root {
+    --mainColor:#46344e;
+    --secondaryColor:#382a3f;
+    --navColor:#341d3f;
+    --borderColor: #1d1520;
+    --mainText: #fff;
+    --secondaryText:#eeeeee; 
+    --previewBg: rgb(29, 21, 32, 0.8);
+    --previewShadow: #2b202f;
+    --btnColor: #341d3f;
+
+    --font-os: 'Oswald', sans-serif;
+    --font-ram: 'Rambla', sans-serif;
+    --font-staat:  'Staatliches', cursive;
+}
