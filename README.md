@@ -2,13 +2,13 @@
 
 <!--**Mirkomilboy/mirkomilboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm Mirkomilboy Sadirov. 23 years old. From Uzbekistan. I'm junior web developer. I'm confident with HTML CSS JS PHP MySQLi <br>
+I'm Mirkomilboy Sadirov. 23 years old. From Uzbekistan. I'm a web developer. I'm confident with HTML CSS TailwindCSS Bootstrap JS PHP MySQLi <br>
 
 Visit the portfolio https://mirkomilboy.github.io/
 
-- 🔭 I’m currently working on Developing back-end projects
-- 🌱 I’m currently learning PHP, MySQLi
-- 👯 I’m looking to collaborate on back-end development
+- 🔭 I’m currently working on Developing front-end projects
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on front-end development
 
 - Check the profile to know about the applications that I develop.
 
